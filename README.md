@@ -1,4 +1,4 @@
-## Telecom Italia Modem Wifi Restarter [![MIT License](https://img.shields.io/github/license/paolobarbolini/telecom-modem-wifi-restarter.svg?maxAge=86400)](LICENSE)
+## Telecom Italia Modem Wifi Restarter [![MIT License](https://img.shields.io/github/license/paolobarbolini/telecom-modem-wifi-restarter.svg?maxAge=86400)](LICENSE) [![Build Status](https://travis-ci.org/paolobarbolini/telecom-modem-wifi-restarter.svg?branch=master)](https://travis-ci.org/paolobarbolini/telecom-modem-wifi-restarter)
 _Automatically restart the wifi on your telecom italia modem!_
 
 This program was created after having to frequently restart the wifi on my telecom italia modem to make it work again.
